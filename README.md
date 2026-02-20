@@ -1,5 +1,6 @@
 # Sensor-de-ritmo-cardiaco-mediante-ESP32
 Proyecto Sensor de Ritmo Cardiaco 
+
 #include "BluetoothSerial.h"
 
 BluetoothSerial SerialBT;
