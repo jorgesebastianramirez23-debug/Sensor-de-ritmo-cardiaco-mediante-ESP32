@@ -3,7 +3,7 @@ Proyecto Sensor de Ritmo Cardiaco
 
 ![SENSOR RITMO CARDIACO](https://github.com/user-attachments/assets/e3a60081-9591-45e2-953d-761568212655)
 
-
+CODIGO ARDUINO 
 
 #include "BluetoothSerial.h"
 
