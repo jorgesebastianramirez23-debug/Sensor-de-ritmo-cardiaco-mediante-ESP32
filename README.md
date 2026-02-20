@@ -1,6 +1,10 @@
 # Sensor-de-ritmo-cardiaco-mediante-ESP32
 Proyecto Sensor de Ritmo Cardiaco 
 
+![SENSOR RITMO CARDIACO](https://github.com/user-attachments/assets/e3a60081-9591-45e2-953d-761568212655)
+
+
+
 #include "BluetoothSerial.h"
 
 BluetoothSerial SerialBT;
